@@ -4,11 +4,11 @@
 
 ##### Bio
 
-- 🏢 I'm currently working as **Lead JavaScript Developer**
+- 🏢 I'm currently working on **InsurTech and Web3 Products**
 - ⚙️ I use daily: `.cs`, `.ts`, `.js`, `.html`, `.css`, `.fig`
 - 🌍 I'm mostly active within the **JavaScript Community**
 - 🌱 Learning all about **Open Source and Blockchain Technology**
-- 💬 Ping me about **development**, **JavaScript**, **Angular**, **React**, **Git**
+- 💬 Ping me about **JavaScript**, **Angular**, **React**, **Git**
 
 ##### Reach Me
 
