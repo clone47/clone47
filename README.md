@@ -16,7 +16,6 @@
 <a href="https://linkedin.com/in/ayonalfaz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayonalfaz" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/users/4329342" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4329342" height="20" width="20" /></a>
 <a href="https://fb.com/ayon.alfaz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayon.alfaz" height="20" width="20" /></a>
-<a href="https://instagram.com/ayonalfaz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayonalfaz" height="20" width="20" /></a>
 </p>
 
 ##### Languages and Tools
