@@ -16,6 +16,9 @@
 #### Github Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=clone47&theme=flat&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+#### Listen With Me on <span style="color:#191414">Spotify</span>
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=uksm9tzudywpnwn35oy5u6olk)
+
 #### Connect With Me
 <p align="left">
 <a href="https://twitter.com/ayon_alfaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
