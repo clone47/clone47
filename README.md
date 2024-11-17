@@ -12,3 +12,11 @@
 
 #### Github Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=clone47&theme=flat&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+#### Connect With Me
+<p align="center">
+<a href="https://twitter.com/ayon_alfaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayonalfaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ayon.alfaz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ayon.alfaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
+</p>
