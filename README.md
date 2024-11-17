@@ -2,7 +2,10 @@
 
 ### I'm just a guy with big dreams and a Netflix subscription 💭🍿</>
 
-#### Github Stats
+#### Github Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=clone47&theme=catppuccin-latte)](https://git.io/streak-stats)
+
+#### Github Profile Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=clone47&theme=catppuccin_latte" />
 </a>
