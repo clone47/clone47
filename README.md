@@ -30,5 +30,5 @@
 ![](https://komarev.com/ghpvc/?username=clone47&color=blue&style=for-the-badge&abbreviated=true&label=PROFILE+VIEWS)
 
 <p align="center">
-  <b>&copy; <script>document.write(new Date().getFullYear())</script>, Double A Production</b>
+  Build with 💕 , &copy; <b> Double A Production</b>
 </p>
