@@ -28,5 +28,5 @@
 </p>
 
 <p align="center">
-  ![Profile Visit Count](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=for-the-badge&abbreviated=true&label=PROFILE+VIEWS)
+  ![Profile Visit Count](https://komarev.com/ghpvc/?username=clone47&color=blue&style=for-the-badge&abbreviated=true&label=PROFILE+VIEWS)
 </p>
