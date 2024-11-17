@@ -19,7 +19,7 @@
 #### Listen With Me on <span style="color:#191414">Spotify</span>
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=uksm9tzudywpnwn35oy5u6olk)
 
-#### Connect With Me
+#### Connect With Me 🟢ᯤ
 <p align="left">
 <a href="https://twitter.com/ayon_alfaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ayonalfaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
