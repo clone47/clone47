@@ -1,34 +1,34 @@
 ## Hi there 👋
 
-### I'm just a guy with big dreams and a Netflix subscription 💭🍿</>
+### I'm just another guy with big dreams and a Netflix subscription 💭🍿</>
 
-#### Github Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=clone47&theme=catppuccin-latte)](https://git.io/streak-stats)
+---
 
-#### Github Profile Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=clone47&theme=catppuccin_latte" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=clone47&layout=compact&langs_count=8&card_width=320&theme=catppuccin_latte" />
-</a>
+<h4 align="center">Visitor's Count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{clone47}/count.svg" alt="clone47 :: Visitor's Count" /></p>
 
-#### Github Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=clone47&theme=flat&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<h4 align="center">Profile Stats 💪</h4>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=clone47&theme=catppuccin_latte&show_icons=true" alt="clone47 :: Profile Stats" /></p>
 
-#### Listen With Me on 🟢ᯤ
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=uksm9tzudywpnwn35oy5u6olk)
+<h4 align="center">Language I Used 📢</h4>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clone47&langs_count=10&theme=catppuccin_latte&layout=compact" alt="clone47 :: Top Langs" /></p>
 
-#### Connect With Me
-<p align="left">
-<a href="https://twitter.com/ayon_alfaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ayonalfaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ayon.alfaz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ayon.alfaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
-</p>
+<h4 align="center">Listen With Me on 🟢ᯤ</h4>
+<p align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=uksm9tzudywpnwn35oy5u6olk" alt="clone47 :: Top Langs" /></p>
 
-![](https://komarev.com/ghpvc/?username=clone47&color=blue&style=for-the-badge&abbreviated=true&label=PROFILE+VIEWS)
-
+<h4 align="center">Ping Me :alien:</h4>
 <p align="center">
-  Build with 💕 , &copy; <b> Double A Production</b>
+  <a href="https://www.linkedin.com/in/ayonalfaz/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Ayon's LinkedIn Profile" height="30" width="30">
+  </a>
+  <a href="https://stackoverflow.com/users/4329342/ayon-alfaz">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Ayon's Stack Overflow Profile" height="30" width="30">
+  </a>
+  <a href="https://gitlab.com/clone47">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Ayon's Github Profile" height="30" width="30">
+  </a>
 </p>
+
+---
+
+💕 From [@Clone47](https://github.com/clone47)
